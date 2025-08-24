@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @willbradle
-- 👀 I am interested in Application Security.
-- 👾 I am primarily skilled in Web App Penetration Testing.
-- 🌱 I am currently learning Thick Application Penetration Testing.
+- 👀 I am interested in all things Application Security.
+- 👾 I am skilled in Web App, Thick App, Generative AI, and Mobile Penetration Testing.
+- 🌱 I am currently fascinated with Burp Suite Pro's Bambda, BCheck, and Custom Action functionality.
 - 📫 You can reach me at willbradle@proton.me
 - ⚡ Fun fact: Roasting your own coffee is easier than you think.
